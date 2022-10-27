@@ -1,1 +1,1 @@
-web:yarn run build
+web:npm run build
