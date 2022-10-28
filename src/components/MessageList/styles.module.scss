@@ -7,16 +7,27 @@ $medium: 900px;
   justify-content: space-between;
   align-items: flex-start;
   margin-bottom: 68px;
+  padding: 10px 20px;
+
+
 
   > img {
-    height: 28px;
+    height: 16px;
     margin: 38px 0;
   }
 
   @media screen and (max-width: $small) {
     //do Smth
     margin: 9px 21px;
+
+
+    >img {
+      height: 28px;
+      margin: 38px 0;
+    }
   }
+
+
 }
 
 .messageList {
