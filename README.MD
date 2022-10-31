@@ -51,23 +51,19 @@ To clone and run this application, you'll need [Git](https://git-scm.com), [Node
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/gabrielcarvalh0/nlwheatapp.git dowhileapp
+$ git clone https://github.com/gabrielcarvalh0/web-heat.git dowhile-web
 
 # Go into the repository
-$ cd rocketshoes-react-native
+$ cd dowhile-web
 
-# Install dependencies
+# Install dependencies using yarn or npm 
 $ yarn install
 
 
-# Run the app ultilizando expo-cli
-$ yarn run start
+# Run the app using yarn or npm
+$ yarn run dev
 
-# Run the app (iOS)
-$ react-native run-ios --simulator="iPhone XS Max"
 
-# Run the app (Android)
-$ react-native run-android
 ```
 
 
