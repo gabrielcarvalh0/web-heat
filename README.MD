@@ -31,7 +31,7 @@ Consiste em uma aplicação compelta de um app para mensagens em tempo real ulti
 </p>
 
 <p align="center">
-<a href="https://web-heat.vercel.app/">Exemplo do projeto no ar!</a>
+<a target="_blank" href="https://web-heat.vercel.app/">Exemplo do projeto no ar!</a>
 
   <img alt="Demo on APP" src="https://res.cloudinary.com/dydwaeqqy/image/upload/v1667243863/img-example-project-nlwheat_nx6qiy.jpg">
 </p>
