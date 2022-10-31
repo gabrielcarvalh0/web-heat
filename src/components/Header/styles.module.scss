@@ -9,21 +9,28 @@ $medium: 900px;
   align-items: center;
   margin: 8px 0;
   padding: 10px 20px;
-  
 
   > img {
     height: 16px;
     margin: 20px 0;
   }
+
+  .conteinerNavInfo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
   .signOutButton {
     background: transparent;
-    border: 0;
-    color: #E1E1E6;
+    margin-right: 20px;
 
+    border: 0;
+    color: #e1e1e6;
     font-size: 16px;
-  
+
     cursor: pointer;
-  
+
     &:hover {
       filter: brightness(0.9);
     }
@@ -35,7 +42,7 @@ $medium: 900px;
     height: 45px;
     align-items: center;
     justify-content: center;
-    background: linear-gradient(to left, #FF008E, #FFCD1E);
+    background: linear-gradient(to left, #ff008e, #ffcd1e);
 
     > img {
       border-radius: 50%;

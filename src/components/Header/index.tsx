@@ -11,8 +11,8 @@ export function Header() {
   return (
     <div className={styles.conteinerHeader}>
       <img src={logoImg} alt="doWhile 2021" />
-
-      <button  onClick={signOut} className={styles.signOutButton}>
+<div className={styles.conteinerNavInfo}>
+<button  onClick={signOut} className={styles.signOutButton}>
           Sair
         </button>
       <div className={styles.divProfile}>
@@ -22,6 +22,8 @@ export function Header() {
           alt="doWhile 2021"
         />
       </div>
+</div>
+  
     </div>
   );
 }
